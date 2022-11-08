@@ -8,7 +8,7 @@ Alib utility for VNE simulation.
 
 Step 1: Download ALIB_Utility tool unzip(alib utility in par with python 2.7) and copy to the execution drive. 1a. Configure the alib by following the steps mentioned in the link(https://github.com/vnep-approx/alib). 1b. Generate the input.pickle file and save it it the P3_ALIB_MASTER\input path. 1b. Make sure "P3_ALIB_MASTER\input" path contain senario_RedBestel.pickle. If not, generate the substrate network senario for senario_RedBestel in folder P3_ALIB_MASTER\input and this pickle file contain substrate network information.
 
-Step 2: Download DMatch and keep in the drive where P3_ALIB_MASTER present. The DMatch file contain all executable files related to proposed appraoch and baselines appraoches. DAA_2.py -> Main file related proposed NORD appraoch.
+Step 2: Download MatchVNE and keep in the drive where P3_ALIB_MASTER present. The DMatch file contain all executable files related to proposed appraoch and baselines appraoches. DAA.py -> Main file related proposed NORD appraoch.
 greedy.py -> Main file related VNE-MWF baselines.
 
 
