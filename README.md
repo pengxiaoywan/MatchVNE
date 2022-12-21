@@ -4,12 +4,17 @@ Operation System: Microsoft Windows 10, 64bit.<br />
 Physical Memory (RAM) 16.0 GB.<br />
 Python 3.9. PyCharm Community Edition 2021.2. Alib utility for VNE simulation.<br />
 
+Introduction about VNE prblem can be found in below link:
+https://www.youtube.com/watch?v=JKB3aVyCMuo&t=506s
+
+
+
 Step 1: Download the ALIB_Utility tool unzip(alib utility in par with python 2.7) and copy it to the execution drive. <br />
 1a. Configure the alib by following the steps mentioned in the link(https://github.com/vnep-approx/alib).<br />
 1b. Generate the input.pickle file and save it in the P3_ALIB_MASTER\input path. 1b. Make sure "P3_ALIB_MASTER\input" path contain senario_RedBestel.pickle. If not, generate the substrate network scenario for senario_RedBestel in folder P3_ALIB_MASTER\input and this pickle file contains substrate network information.<br />
 
 Step 2: Download  MatchVNE and keep it in the drive where P3_ALIB_MASTER is present. The  MatchVNE  file contains all executable files related to the proposed and baseline approaches. <br />
-DAA.py -> The Main file related to the proposed MAD approach.<br />
+DAA.py -> The Main file related to the proposed MatchVNE approach.<br />
 greedy.py -> The Main file related to the VNE-MWF baseline approach.<br />
 Rethinking.py ->  The Main file related to the  DPGA baseline approach.<br />
 
