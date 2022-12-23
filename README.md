@@ -9,14 +9,14 @@ https://www.youtube.com/watch?v=JKB3aVyCMuo&t=506s
 
 
 
-Step 1: Download the ALIB_Utility tool unzip(alib utility in par with python 2.7) and copy it to the execution drive. <br />
+Step 1: Download the ALIB_Utility tool [1] (alib utility in par with python 2.7) and copy it to the execution drive. <br />
 1a. Configure the alib by following the steps mentioned in the link(https://github.com/vnep-approx/alib).<br />
 1b. Generate the input.pickle file and save it in the P3_ALIB_MASTER\input path. 1b. Make sure "P3_ALIB_MASTER\input" path contain senario_RedBestel.pickle. If not, generate the substrate network scenario for senario_RedBestel in folder P3_ALIB_MASTER\input and this pickle file contains substrate network information.<br />
 
 Step 2: Download  MatchVNE and keep it in the drive where P3_ALIB_MASTER is present. The  MatchVNE  file contains all executable files related to the proposed and baseline approaches. <br />
 DAA.py -> The Main file related to the proposed MatchVNE approach.<br />
 greedy.py -> The Main file related to the VNE-MWF baseline approach.<br />
-Rethinking.py ->  The Main file related to the  DPGA baseline approach.<br />
+Rethinking.py ->  The Main file related to the  DPGA baseline approach [2].<br />
 
 Step 3: In vne_u.py, we can set the various parameters related to Virtual network requests(VNRs).<br />
 
@@ -35,3 +35,9 @@ Step 3: In vne_u.py, we can set the various parameters related to Virtual networ
 Step 5: In the automate_c1.py file set the VNR size such as [250, 500, 750, 1000] and also mention the number of iterations needs to execute for each VNR size in the iteration variable.<br />
 
 Step 6: Finally run the automate_c1.py file. After successfully running a 1_uniform.pickle file is created and it is having all input parameters related to both substrate network and Virtual network request parameters and final embedding results are captured in the Results.xlsx.  
+
+References:<br />
+[1] E. D. Matthias Rost, Alexander Elvers, “Alib,” https://github.com/vnep-approx/alib, 2020. <br />
+<br />
+[2] Nguyen, Khoa TD, Qiao Lu, and Changcheng Huang. "Rethinking virtual link mapping in network virtualization." In 2020 IEEE 92nd Vehicular Technology Conference (VTC2020-Fall), pp. 1-5. IEEE, 2020.<br />
+
