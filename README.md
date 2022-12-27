@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=JKB3aVyCMuo&t=506s<br />
 
 ###  Download the ALIB_Utility tool unzip(alib utility in par with python 2.7) and copy it to the execution drive.<br /> 
 
-- Configure the alib by following the steps mentioned in the link(https://github.com/vnep-approx/alib). <br />
+- Configure the alib by following the steps mentioned in the github reposotory [1]. <br />
 
 - Generate the input.pickle file and save it in the P3_ALIB_MASTER\input path. <br />
 
