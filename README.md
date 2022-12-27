@@ -38,7 +38,8 @@ https://www.youtube.com/watch?v=JKB3aVyCMuo&t=506s<br />
 
 - We can set the minimum and maximum number of VMs of VNRs in the create_vne function.<br />
 
-- We can set the virtual network request demands like BandWidth(min, max), CRB(min, max), LocationX(min, max), LocationY(min, max), and Delay(min, max) in vne. append function. EX: (1, 5, 1, 10, 0, 100, 0, 100, 1, 4)<br />
+- We can set the virtual network request demands like BandWidth(min, max), CRB(min, max), LocationX(min, max), LocationY(min, max), and Delay(min, max) in vne. append function. <br />
+- Example: (1, 5, 1, 10, 0, 100, 0, 100, 1, 4)<br />
 
 - Run vne_u.py after doing any modifications. <br />
 
@@ -46,7 +47,8 @@ https://www.youtube.com/watch?v=JKB3aVyCMuo&t=506s<br />
 
 - In the get_graphs function mention the pickle file related to substrate network generation, the same is available in the folder P3_ALIB_MASTER. EX: os.path.join( os.path.dirname(current), "P3_ALIB_MASTER", "input", "senario_RedBestel.pickle",)<br />
 
-- In graph.parameters function set substrate network resources like BandWidth(min,max), CRB(min,max), LocationX(min,max), LocationY(min,max), Delay(min,max). Ex: (500, 1000, 200, 1000, 0, 100, 0, 100, 1, 1)<br />
+- In graph.parameters function set substrate network resources like BandWidth(min,max), CRB(min,max), LocationX(min,max), LocationY(min,max), Delay(min,max).<br />
+- Example: (500, 1000, 200, 1000, 0, 100, 0, 100, 1, 1)<br />
 
 - Run grpah_extraction_uniform.py after doing any modification. <br />
 
