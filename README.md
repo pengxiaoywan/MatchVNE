@@ -63,7 +63,7 @@ https://www.youtube.com/watch?v=JKB3aVyCMuo&t=506s<br />
 <br />
 [2] Nguyen, Khoa TD, Qiao Lu, and Changcheng Huang. "Rethinking virtual link mapping in network virtualization." In 2020 IEEE 92nd Vehicular Technology Conference (VTC2020-Fall), pp. 1-5. IEEE, 2020.<br />
 
-## Contributing
+## Contributors
 
 If you'd like to contribute to the project, please follow these guidelines:
 
@@ -72,7 +72,8 @@ If you'd like to contribute to the project, please follow these guidelines:
 - Make your changes and commit them
 - Open a pull request, explaining your changes and why they should be included
 
-## License
+## Contact
 
-NA
+Keerthanswamy@gmail.com
+
 
