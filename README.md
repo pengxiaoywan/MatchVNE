@@ -74,6 +74,5 @@ If you'd like to contribute to the project, please follow these guidelines:
 
 ## Contact
 
-Keerthanswamy@gmail.com
-
+If you have any questions, simply write a mail to  Keerthanswamy(AT)gmail(DOT)com.
 
