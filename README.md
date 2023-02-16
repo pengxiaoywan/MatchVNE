@@ -66,10 +66,12 @@ https://www.youtube.com/watch?v=JKB3aVyCMuo&t=506s<br />
 ## Contributors
 - Mr. Keerthan Kumar T G<br />
 https://scholar.google.com/citations?user=fW7bzK8AAAAJ&hl=en <br />
-- Mr. anurag satpathy<br />
+- Dr. anurag satpathy<br />
 https://anuragsatpathy.github.io/<br />
 - Dr. Sourav kanti addya<br />
 https://souravkaddya.in/<br />
+- Dr Shashidhar G Koolagudi <br />
+https://scholar.google.co.in/citations?user=WAyKHHwAAAAJ&hl=en <br />
 
 ## Citation & Acknowledgements
 This codebase is available publicly for only for non-commercial use. If you use this code or any content in your research or wish to refer to the baseline models published in the README, please cite the work as:
