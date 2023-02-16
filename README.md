@@ -74,17 +74,15 @@ https://souravkaddya.in/<br />
 ## Citation & Acknowledgements
 This simulation code is available publicly for only for non-commercial use. If you use this code or any content in your research or wish to refer to the baseline results published in the README, please cite the work from Cite this repository as:
 
-@article{keerthan2023,<br />
-    title={MatchVNE: A Stable Virtual Network Embedding Strategy Based on Matching Theory},<br />
-    author={author = {Kumar T G, Keerthan    and Satpathy, Anurag and  Kanti Addya, Sourav and G Koolagudi, Shashidhar}, <br />       
-    booktitle = {2023 15th International Conference on COMmunication Systems & NETworkS (COMSNETS)},<br />
-    publisher={IEEE},<br />
-    volume={},<br />
-    number={},<br />
-    pages={},<br />
-    year={2023}, <br />
-    note = "10.1109/COMSNETS56262.2023.10041377"<br />
- }
+@INPROCEEDINGS{10041377,
+  author={T G, Keerthan Kumar and Srivastava, Ankit and Satpathy, Anurag and Addya, Sourav Kanti and Koolagudi, S. G},
+  booktitle={2023 15th International Conference on COMmunication Systems & NETworkS (COMSNETS)}, 
+  title={MatchVNE: A Stable Virtual Network Embedding Strategy Based on Matching Theory}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={355-359},
+  doi={10.1109/COMSNETS56262.2023.10041377}}
 
 
 
