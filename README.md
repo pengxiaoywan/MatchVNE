@@ -72,7 +72,7 @@ https://anuragsatpathy.github.io/<br />
 https://souravkaddya.in/<br />
 
 ## Citation & Acknowledgements
-This simulation code is available publicly for only for non-commercial use. If you use this code or any content in your research or wish to refer to the baseline results published in the README, please cite the work from Cite this repository as:
+This codebase is available publicly for only for non-commercial use. If you use this code or any content in your research or wish to refer to the baseline models published in the README, please cite the work as:
 
 @INPROCEEDINGS{10041377,<br />
   author={T G, Keerthan Kumar and Srivastava, Ankit and Satpathy, Anurag and Addya, Sourav Kanti and Koolagudi, S. G},<br />
