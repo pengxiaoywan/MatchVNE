@@ -87,6 +87,9 @@ This codebase is available publicly for only for non-commercial use. If you use 
   doi={10.1109/COMSNETS56262.2023.10041377}}<br />
 
 
+## Paper Links
+- https://www.sciencedirect.com/science/article/pii/S1389128623001068
+- https://ieeexplore.ieee.org/document/10041377
 
 ## Contact
 
